@@ -1,0 +1,22 @@
+# Vehicle Management Command-Line Application
+
+## Description
+This command-line application allows you to manage different types of vehicles. You can create new vehicles or select from existing vehicles, perform actions on them, and see the results displayed in the command-line interface.
+
+The application supports multiple vehicle types, including cars, trucks, and motorbikes. It allows users to interact with vehicles and perform various operations such as updating vehicle information and performing vehicle-related actions.
+
+## Features
+- Create a new vehicle or select an existing one.
+- Choose from vehicle types: car, truck, and motorbike.
+- Enter vehicle details such as model, make, and other relevant information.
+- Perform actions with the selected or created vehicle, with the results displayed in the command-line interface.
+- Continuously perform actions until the user chooses to exit.
+
+
+## Installation
+
+To get started with this project, follow the steps below:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tcs3000/VehicleBuilder.git
